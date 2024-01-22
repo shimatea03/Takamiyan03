@@ -1,0 +1,43 @@
+h1 {
+    font-weight: normal;
+    margin: 0;
+}
+table {
+    border-collapse: collapse;
+    margin: 16px 0px;
+}
+th, td {
+    border: 1px solid #999;
+    padding: 4px;
+}
+.container {
+    margin: 0 auto;
+    width: 760px;
+}
+.navbar {
+    background: #eee;
+    margin: 16px auto;
+}
+.form-row {
+    margin: 8px auto;
+}
+.disp-block {
+    display: block;
+}
+.btn {
+    background: #0066ff;
+    border: 0;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 1em;
+    padding: 4px 16px;
+}
+.errors {
+    color: #990000;
+}
+.copyright {
+    border-top: 1px solid #999;
+    color: #999;
+    margin-top: 16px;
+    padding-top: 4px;
+}
